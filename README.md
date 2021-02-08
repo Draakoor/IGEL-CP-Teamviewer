@@ -3,7 +3,7 @@
 |  CP Information |            |
 |-----------------|------------|
 | Package | Teamviewer - Current Version |
-| Script Name | [custompart-teamviewer](zoom-cp-init-script.sh) |
+| Script Name | [custompart-teamviewer](custompart-teamviewer.sh) |
 | CP Mount Path | /custom/teamviewer |
 | CP Size | 200M |
 | IGEL OS Version (min) | 11.3.110 |
