@@ -16,3 +16,5 @@
 
 |  Customization | - |
 |----------------|------------------------------|
+
+Note you can find the latest package build by me in releases (only the tar.bz2)
