@@ -15,7 +15,7 @@ mkdir -p custom/teamviewer
 
 dpkg -x teamviewer_amd64.deb custom/teamviewer
 
-mv custom/teamviewer/usr/share/applications/ custom/zoom/teamviewer/share/applications.mime
+mv custom/teamviewer/usr/share/applications/ custom/teamviewer/share/applications.mime
 
 wget https://github.com/Draakoor/IGEL-CP-Teamviewer/archive/main.zip
 
