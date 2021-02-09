@@ -30,7 +30,7 @@ cd custom
 
 tar cvjf teamviewer.tar.bz2 teamviewer custompart-teamviewer.sh
 mv teamviewer.tar.bz2 ../..
-mv target/teamviewer.inf ../..
+mv teamviewer.inf ../..
 
 cd ../..
 rm -rf build_tar
